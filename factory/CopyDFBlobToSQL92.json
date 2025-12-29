@@ -1,0 +1,9 @@
+{
+	"name": "CopyDFBlobToSQL92",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9e086a2b-d7c9-40a2-9cf7-fddbf0c7e7ff",
+		"tenantId": "6c79142b-246e-490e-9e09-830da611ed34"
+	}
+}
